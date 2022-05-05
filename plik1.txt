@@ -1,0 +1,2 @@
+To jest pierwsza wersja pliku numer 1
+Zmiana w pliku numer 1
